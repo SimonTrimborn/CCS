@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSPCAExVar
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Plots the cumulative explained variance by the principal components of a PCA of the top 10 crypto-currencies by market capitalization.
+
+Keywords : 
+ - PCA
+ - Crypto-Currencies
+ - explained variance
+ - returns
+ - plot
+
+See also : 
+ - CCSAlphas
+ - CCSCryptoSurvival
+ - CCSecdf
+ - CCSHistMarketCap
+ - CCSHistMarketCapHighValAreas
+ - CCSHistReturnsDensity
+ - CCSMarketCapvsVol
+ - CCSMeansRollingWindow
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot giving the cumulative explained variance by the principal components of a PCA of the top 10 crypto-currencies by market capitalization.

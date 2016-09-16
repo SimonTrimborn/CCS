@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSMarketCapvsVol
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Plots the aggregate market capitalization of all crypto-currencies while the thickness of the line gives the corresponding trading volume.
+
+Keywords : 
+ - trading volume
+ - Crypto-Currencies
+ - log
+ - normal distribution
+ - plot
+
+See also : 
+ - CCSAlphas
+ - CCSCryptoSurvival
+ - CCSecdf
+ - CCSHistMarketCap
+ - CCSHistMarketCapHighValAreas
+ - CCSHistReturnsDensity
+ - CCSMeansRollingWindow
+ - CCSPCAExVar
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot giving the aggregate market capitalization of all crypto-currencies while the thickness of the line gives the corresponding trading volume.

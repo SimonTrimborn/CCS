@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSAlphas
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Derives the alpha of the power law and plots them to compare them over time.
+
+Keywords : 
+ - Power Law
+ - Crypto-Currencies
+ - Alpha
+ - Cross Section
+ - plot
+
+See also : 
+ - CCSCryptoSurvival
+ - CCSecdf
+ - CCSHistMarketCap
+ - CCSHistMarketCapHighValAreas
+ - CCSHistReturnsDensity
+ - CCSMarketCapvsVol
+ - CCSMeansRollingWindow
+ - CCSPCAExVar
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot showing the evolution of the alpha parameter in 3 different groups of crypto-currencies ordered by market capitalization.

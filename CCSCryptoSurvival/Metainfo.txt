@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSCryptoSurvival
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Gives a plot visualizing the trading volume of the top 10 crypto-currencies by market capitalization.
+
+Keywords : 
+ - Trading volume
+ - Crypto-Currencies
+ - log
+ - polygon
+ - plot
+
+See also : 
+ - CCSAlphas
+ - CCSecdf
+ - CCSHistMarketCap
+ - CCSHistMarketCapHighValAreas
+ - CCSHistReturnsDensity
+ - CCSMarketCapvsVol
+ - CCSMeansRollingWindow
+ - CCSPCAExVar
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot visualizing the trading volume of the top 10 crypto-currencies by market capitalization on a log10 scale.

@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSecdf
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Derives the ecdfs according to groups of crypto-currencies and plots them for comparison.
+
+Keywords : 
+ - ecdf
+ - Crypto-Currencies
+ - size effect
+ - daily returns
+ - plot
+
+See also : 
+ - CCSAlphas
+ - CCSCryptoSurvival
+ - CCSHistMarketCap
+ - CCSHistMarketCapHighValAreas
+ - CCSHistReturnsDensity
+ - CCSMarketCapvsVol
+ - CCSMeansRollingWindow
+ - CCSPCAExVar
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot showing the ecdf in 3 different groups of crypto-currencies ordered by market capitalization.

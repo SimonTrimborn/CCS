@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSMeansRollingWindow
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Plots the mean log returns of the top 10 crypto-currencies by market capitalization on a rolling window.
+
+Keywords : 
+ - rolling window
+ - Crypto-Currencies
+ - log
+ - returns
+ - plot
+
+See also : 
+ - CCSAlphas
+ - CCSCryptoSurvival
+ - CCSecdf
+ - CCSHistMarketCap
+ - CCSHistMarketCapHighValAreas
+ - CCSHistReturnsDensity
+ - CCSMarketCapvsVol
+ - CCSPCAExVar
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot giving the mean log returns of the top 10 crypto-currencies by market capitalization on a rolling window of 180 days.

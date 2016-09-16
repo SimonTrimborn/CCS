@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSHistReturnsDensity
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Compares the densities of the top 10 crypto-currencies by market capitalization against a histogram of the normal distribution.
+
+Keywords : 
+ - histogram
+ - Crypto-Currencies
+ - density
+ - normal distribution
+ - plot
+
+See also : 
+ - CCSAlphas
+ - CCSCryptoSurvival
+ - CCSecdf
+ - CCSHistMarketCap
+ - CCSHistMarketCapHighValAreas
+ - CCSMarketCapvsVol
+ - CCSMeansRollingWindow
+ - CCSPCAExVar
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot giving the densities of the top 10 crypto-currencies by market capitalization plotted against a histogram of the normal distribution with the same parameters than Bitcoin.

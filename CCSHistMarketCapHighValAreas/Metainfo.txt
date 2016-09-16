@@ -1,0 +1,32 @@
+
+Name of Quantlet : CCSHistMarketCapHighValAreas
+
+Published in :  'The Cross Section of Crypto-Currencies as Financial Asset'
+
+Description : Gives 2 histograms for the distribution of market capitalization of crypto-currencies in 2 different time periods with a high overall market capitalization.
+
+Keywords : 
+ - histogram
+ - Crypto-Currencies
+ - log
+ - market capitalization
+ - plot
+
+See also : 
+ - CCSAlphas
+ - CCSCryptoSurvival
+ - CCSecdf
+ - CCSHistMarketCap
+ - CCSHistReturnsDensity
+ - CCSMarketCapvsVol
+ - CCSMeansRollingWindow
+ - CCSPCAExVar
+ - CCSSdRollingWindow
+
+Author : Simon Trimborn, Hermann Elendner
+
+Submitted :  Fri, September 16 2016 by Simon Trimborn
+
+Datafile : data.RData
+
+Example : A plot giving 2 histograms for the distribution of market capitalization of crypto-currencies in 2 different time periods with a high overall market capitalization.
